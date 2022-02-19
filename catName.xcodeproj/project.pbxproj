@@ -16,6 +16,13 @@
 		8718A55427BA0D6C0066BD8A /* catNameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8718A55327BA0D6C0066BD8A /* catNameTests.swift */; };
 		8718A55E27BA0D6C0066BD8A /* catNameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8718A55D27BA0D6C0066BD8A /* catNameUITests.swift */; };
 		8718A56027BA0D6C0066BD8A /* catNameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8718A55F27BA0D6C0066BD8A /* catNameUITestsLaunchTests.swift */; };
+		8718A57927BA16E30066BD8A /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8718A57827BA16E30066BD8A /* imageViewController.swift */; };
+		8718A59927BAEF730066BD8A /* selkirkrex.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59327BAEF730066BD8A /* selkirkrex.jpeg */; };
+		8718A59A27BAEF730066BD8A /* iran.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59427BAEF730066BD8A /* iran.jpeg */; };
+		8718A59B27BAEF730066BD8A /* britishshorthair.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59527BAEF730066BD8A /* britishshorthair.jpeg */; };
+		8718A59C27BAEF730066BD8A /* mavirus.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59627BAEF730066BD8A /* mavirus.jpeg */; };
+		8718A59D27BAEF730066BD8A /* ragdoll.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59727BAEF730066BD8A /* ragdoll.jpeg */; };
+		8718A59E27BAEF730066BD8A /* scotishfold.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8718A59827BAEF730066BD8A /* scotishfold.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,13 @@
 		8718A55927BA0D6C0066BD8A /* catNameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = catNameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8718A55D27BA0D6C0066BD8A /* catNameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catNameUITests.swift; sourceTree = "<group>"; };
 		8718A55F27BA0D6C0066BD8A /* catNameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catNameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8718A57827BA16E30066BD8A /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
+		8718A59327BAEF730066BD8A /* selkirkrex.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = selkirkrex.jpeg; sourceTree = SOURCE_ROOT; };
+		8718A59427BAEF730066BD8A /* iran.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iran.jpeg; sourceTree = SOURCE_ROOT; };
+		8718A59527BAEF730066BD8A /* britishshorthair.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = britishshorthair.jpeg; sourceTree = SOURCE_ROOT; };
+		8718A59627BAEF730066BD8A /* mavirus.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mavirus.jpeg; sourceTree = SOURCE_ROOT; };
+		8718A59727BAEF730066BD8A /* ragdoll.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ragdoll.jpeg; sourceTree = SOURCE_ROOT; };
+		8718A59827BAEF730066BD8A /* scotishfold.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scotishfold.jpeg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +116,15 @@
 				8718A53C27BA0D6A0066BD8A /* AppDelegate.swift */,
 				8718A53E27BA0D6A0066BD8A /* SceneDelegate.swift */,
 				8718A54027BA0D6B0066BD8A /* ViewController.swift */,
+				8718A57827BA16E30066BD8A /* imageViewController.swift */,
 				8718A54227BA0D6B0066BD8A /* Main.storyboard */,
 				8718A54527BA0D6C0066BD8A /* Assets.xcassets */,
+				8718A59527BAEF730066BD8A /* britishshorthair.jpeg */,
+				8718A59427BAEF730066BD8A /* iran.jpeg */,
+				8718A59627BAEF730066BD8A /* mavirus.jpeg */,
+				8718A59727BAEF730066BD8A /* ragdoll.jpeg */,
+				8718A59827BAEF730066BD8A /* scotishfold.jpeg */,
+				8718A59327BAEF730066BD8A /* selkirkrex.jpeg */,
 				8718A54727BA0D6C0066BD8A /* LaunchScreen.storyboard */,
 				8718A54A27BA0D6C0066BD8A /* Info.plist */,
 			);
@@ -231,9 +252,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8718A59A27BAEF730066BD8A /* iran.jpeg in Resources */,
 				8718A54927BA0D6C0066BD8A /* LaunchScreen.storyboard in Resources */,
+				8718A59C27BAEF730066BD8A /* mavirus.jpeg in Resources */,
+				8718A59B27BAEF730066BD8A /* britishshorthair.jpeg in Resources */,
 				8718A54627BA0D6C0066BD8A /* Assets.xcassets in Resources */,
+				8718A59E27BAEF730066BD8A /* scotishfold.jpeg in Resources */,
+				8718A59D27BAEF730066BD8A /* ragdoll.jpeg in Resources */,
 				8718A54427BA0D6B0066BD8A /* Main.storyboard in Resources */,
+				8718A59927BAEF730066BD8A /* selkirkrex.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +287,7 @@
 			files = (
 				8718A54127BA0D6B0066BD8A /* ViewController.swift in Sources */,
 				8718A53D27BA0D6A0066BD8A /* AppDelegate.swift in Sources */,
+				8718A57927BA16E30066BD8A /* imageViewController.swift in Sources */,
 				8718A53F27BA0D6B0066BD8A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
